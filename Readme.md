@@ -9,3 +9,5 @@
  - ProcedureCreation.sql : MySQL queries used to create sample procedures with explinations.
  - SampleData.sqsl : MySQL queries to insert a set of sample data for procedures and queries to test with.
  - universitydatabase.sql : .SQL backup of the completed database.
+
+ Coded within simulated 8 hour work day without prior MySQL experience
