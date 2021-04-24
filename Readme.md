@@ -1,3 +1,5 @@
+![Database Designer View](https://github.com/Creston-B/sample-university-database/blob/master/tables_design_view.png)
+
 # Student Work: SQL / C#
 ----------------
 
